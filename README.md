@@ -34,3 +34,5 @@ will help you and the community!
 Also, we want to use this repo to keep a list of useful resources. 
 You can submit your own or things found on the internet - please use tag [Resource] for them.
 You can submit a presentation(or more) using the [presentation] tag
+
+We will descide on dates(usualy thusday) to pick some topics and debate/present them, we will do this using the milestone functionality
