@@ -29,3 +29,8 @@ Don't be afraid to submit an issue, even if its sounds stupid, something interst
 2. Leave a comment volunteering to speak on the subject and explaining why you want to speak on it.
 3. An admin will add you to the topic title.
 
+
+
+Allsow we want to use this repo to keep a list of usefull resources, 
+You can submit your own or things found on the internet, please use tag [Resource] for them
+You can submit presentation using [presentation] tag
