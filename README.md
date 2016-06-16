@@ -19,8 +19,8 @@ someone will/can add them for you)
 
 ### To Create a Presentation:
 
-1. Download, unzip and install [our corporate typefaces](https://github.com/EveryMatrix/workshops/blob/master/EveryMatrix%20-%20Licensed%20Typefaces.rar) – _note that the password is our Wi-Fi Guest password_
-2. Download the [Presentation Template](https://github.com/EveryMatrix/workshops/blob/master/New%20presentation%20templates%20v2%20-%20EveryMatrix%20-%20Empty.potx) in *POTX* format (compatible with PC and Mac presentation editors)
+1. Download, unzip and install [our corporate typefaces](https://github.com/EveryMatrix/workshops/raw/master/EveryMatrix%20-%20Licensed%20Typefaces.rar) – _note that the password is our Wi-Fi Guest password_
+2. Download the [Presentation Template](https://github.com/EveryMatrix/workshops/raw/master/New%20presentation%20templates%20v2%20-%20EveryMatrix%20-%20Empty.potx) in *POTX* format (compatible with PC and Mac presentation editors)
 3. Double-click it to create a new *PPTX* file
 4. Add your content and send it to us in our Skype group, or to [Viorel](mailto:viorel.mocanu@everymatrix.com)
 
