@@ -11,3 +11,6 @@ official chrome channel, you can get all the new kinky news about chrome release
 # Newsletters
 * [ng-newsletter](http://cur.ng-newsletter.com/) latest angular news
 * [dev-tips](https://umaar.com/dev-tips/) a lot of usefully and cool tips on chrome dev-tools features and more
+
+# Turorials
+* https://scotch.io - various tutorials
