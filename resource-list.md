@@ -6,7 +6,7 @@ Please add your own.
 ## Youtube
 * [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) 
 official chrome channel, you can get all the new kinky news about chrome releases, a lot of best practices and good tips
-
+* [floating youtube](https://www.youtube.com/watch?v=tn7tuUjOCjI) watch youtube while you work
 
 ## Newsletters
 * [ng-newsletter](http://cur.ng-newsletter.com/) latest angular news
@@ -19,3 +19,6 @@ official chrome channel, you can get all the new kinky news about chrome release
 
 ## Turorials
 * [https://scotch.io](https://scotch.io) - various tutorials
+
+
+
